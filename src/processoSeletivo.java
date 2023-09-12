@@ -19,7 +19,7 @@ public class processoSeletivo{
             else
                 System.out.println("Contato Realizado");
         }while(continuarTentando && tentativasRealizadas < 3);
-
+    }
     static boolean atender(){
         return new Random().nextInt(3)==1;
     }
