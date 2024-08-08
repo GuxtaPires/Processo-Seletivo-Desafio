@@ -1,18 +1,12 @@
-## Getting Started
+# Processo seletivo - Java
+## Cuidando do processo de recrutamento e seleção!
+Este sistema foi escrito em java, faz a seleção, dos candidatos e simula um "Contato" com eles.
+Esse código foi desenvolvido seguindo orientações no curso de Java da DIO.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Feedback
 
-## Folder Structure
+Me mande sua opinião sobre este jogo neste meio:
 
-The workspace contains two folders by default, where:
+- [Linkedin](https://www.linkedin.com/in/gustavodasilvapires/)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Ou por comentários no github, Muito obrigado pela atençã
