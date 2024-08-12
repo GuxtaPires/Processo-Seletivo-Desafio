@@ -5,7 +5,7 @@ Esse código foi desenvolvido seguindo orientações no curso de Java da DIO.
 
 ## Feedback
 
-Me mande sua opinião sobre este jogo neste meio:
+Me mande sua opinião sobre este sistema neste meio:
 
 - [Linkedin](https://www.linkedin.com/in/gustavodasilvapires/)
 
